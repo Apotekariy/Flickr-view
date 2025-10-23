@@ -1,4 +1,4 @@
-# Flickr Compose
+# Flickr View
 
 Android приложение для поиска и просмотра фото из Flickr API на View.
 
